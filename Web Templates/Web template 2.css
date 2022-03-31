@@ -7,7 +7,7 @@
   /* height: 100px; */
 }
 #navigation {
-  /* display: flex; */
+  display: flex; 
   list-style-type: none;
   width: 70%;
   position: absolute;
